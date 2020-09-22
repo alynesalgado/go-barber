@@ -60,7 +60,8 @@
       {
         "allowExpressions": true
       }
-    ]
+    ],
+    "@typescript-eslint/ban-types": "off"
   },
   "settings": {
     "import/resolver": {
